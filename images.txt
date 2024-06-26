@@ -5,3 +5,8 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 vllm/vllm-openai:v0.4.1
+mysql:latest
+docker.elastic.co/elasticsearch/elasticsearch:7.15.2
+minio/minio:latest
+redis:latest
+infiniflow/ragflow
