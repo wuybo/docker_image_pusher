@@ -9,5 +9,4 @@ mysql:latest
 docker.elastic.co/elasticsearch/elasticsearch:7.15.2
 minio/minio:latest
 redis:latest
-infiniflow/ragflow
-docker-compose-CN.yml
+ragflow:v0.7.0 .
